@@ -1,4 +1,6 @@
 # Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcfrioux%2Fmeneco.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcfrioux%2Fmeneco?ref=badge_shield)
+
 
 Requires **Python >= 3.6**
 
@@ -82,3 +84,7 @@ Sample files for the reconstruction of Ectocarpus are available here: [ectocyc.s
 [2]: http://bioasp.github.io/downloads/samples/ectodata/metacyc_16-5.sbml
 [3]: http://bioasp.github.io/downloads/samples/ectodata/seeds.sbml
 [4]: http://bioasp.github.io/downloads/samples/ectodata/targets.sbml
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcfrioux%2Fmeneco.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcfrioux%2Fmeneco?ref=badge_large)
